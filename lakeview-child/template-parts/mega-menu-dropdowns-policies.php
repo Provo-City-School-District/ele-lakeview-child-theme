@@ -13,7 +13,6 @@
 					?>
 						<ul>
 							<li class="int"><a href="https://lakeview.provo.edu/policies-forms/lakeview-attendance-guidelines/">Lakeview Attendance Guidelines</a></li>
-							<li class="pdf"><a href="https://lakeview.provo.edu/wp-content/uploads/2019/02/Parent-Handbook-Revised-2017.pdf">Parent Handbook</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2020/08/Policy-3150-Student-Attendance.pdf">3150 Student Attendance</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2020/08/Policy-3155-Releasing-Minors-from-School-Attendance.pdf">3155 Releasing Minors from School Attendance</a></li>
 			                <li class="pdf"><a href="https://provo.edu/wp-content/uploads/2020/08/Policy-3310-Safe-Schools-Policy.pdf">3310 Safe Schools</a></li>
